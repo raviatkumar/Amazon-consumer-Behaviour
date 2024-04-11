@@ -1,6 +1,6 @@
 # **Project Title : Amazon consumer Behaviour**
 
-##**Problem Statement:**
+## **Problem Statement:**
 
 Given the Amazon Consumer Behaviour Dataset, our goal is to analyze and understand the purchasing behavior and preferences of Amazon customers. By exploring various demographic and behavioral attributes, we aim to uncover insights that can help Amazon enhance its services, personalize recommendations, and improve the overall shopping experience for its customers.
 
