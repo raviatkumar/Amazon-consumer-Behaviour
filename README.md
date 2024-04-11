@@ -4,6 +4,8 @@
 
 Given the Amazon Consumer Behaviour Dataset, our goal is to analyze and understand the purchasing behavior and preferences of Amazon customers. By exploring various demographic and behavioral attributes, we aim to uncover insights that can help Amazon enhance its services, personalize recommendations, and improve the overall shopping experience for its customers.
 
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Amazon-consumer-Behaviour/main/image/pexels-tobias-dziuba-907607.jpg)
+
 **Dataset Names:**
 
 1. **amazon_consumer_behaviour.csv**
